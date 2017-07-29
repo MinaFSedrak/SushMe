@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShushMe</string>
+    <string name="api_key">AIzaSyAVsdv0WwMgzcvRBdB1EASrqe68mdEClIc</string>
+    <string name="settings">Settings</string>
+    <string name="enable_geoFences">Enable Geofences</string>
+    <string name="add_new_location">Add new location</string>
+    <string name="locations">Locations</string>
+    <string name="location_permissions">Location Permissions</string>
+    <string name="setting_enabled" translatable="false">EnabledSetting</string>
+    <string name="ringer_permissions">Ringer Permissions</string>
+    <string name="silent_mode_activated">Silent mode activated</string>
+    <string name="touch_to_relaunch">Touch to launch the app.</string>
+    <string name="back_to_normal">Back to normal</string>
+
+
+
+</resources>
